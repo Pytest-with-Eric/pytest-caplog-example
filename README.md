@@ -1,10 +1,10 @@
 # pytest-caplog
-This repo contains the sample code for the article on "How to Boost Test Visibility in Python with Pytest Caplog (A Practical Guide)"
+This repo contains the sample code for the article on [What Is Pytest Caplog? (Everything You Need To Know)](https://pytest-with-eric.com/fixtures/built-in/pytest-caplog/)
 
-This guide covers pytest caplog in detail and it is used to optimize testing. 
+This guide covers Pytest Caplog in detail and it is used to optimize testing. 
 
 # Requirements
-* Python (3.11.4)
+* Python (3.12+)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
