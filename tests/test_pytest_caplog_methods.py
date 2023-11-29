@@ -1,4 +1,5 @@
 import logging
+import pytest
 
 def function_that_logs():
     logging.info("Starting process")
